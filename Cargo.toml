@@ -1,0 +1,9 @@
+[package]
+name = "csv2struct"
+version = "0.1.0"
+authors = ["Antony Southworth <southworthy@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+csv = "1"
+Inflector = "0.11"
