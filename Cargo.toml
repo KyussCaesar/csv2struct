@@ -4,6 +4,13 @@ version = "0.1.0"
 authors = ["Antony Southworth <southworthy@gmail.com>"]
 edition = "2018"
 
+description = "Generate Rust struct definitions from CSV"
+license = "MIT"
+repository = "https://github.com/KyussCaesar/csv2struct"
+readme = "README.md"
+keywords = ["csv", "struct", "codegen"]
+categories = ["command-line-utilities", "data-structures"]
+
 [dependencies]
 csv = "1"
 Inflector = "0.11"
